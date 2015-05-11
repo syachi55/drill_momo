@@ -1,4 +1,4 @@
-# drill_momo
+# 画像掲示板 momo
 基礎からのPHP 最終課題その１
 
 //
